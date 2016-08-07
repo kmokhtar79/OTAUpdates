@@ -9,7 +9,7 @@
 <!-- You can use markdown here if you want --> <updated-at>2016-08-07</updated-at> 
 <!-- Must be in yyyy-mm-dd format --> <size>197419799</size> 
 <!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2199?region=usa </download-link> 
+<download-link> https://romhut.com/files/2200?region=usa </download-link> 
 </addon>
 <addon>
 <id>2</id> 

@@ -6,10 +6,10 @@
 <!-- Use integers only, make them unique --> <name>AryaMod_V6.2_Final_ProjectGrace</name> 
 <!-- The name, simples --> 
 <description>NoteUX apps for AryaModV6.2</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-08-07</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>197419799</size> 
+<!-- You can use markdown here if you want --> <updated-at>2016-08-08</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>196894552</size> 
 <!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2200?region=usa </download-link> 
+<download-link> https://romhut.com/files/2202?region=usa </download-link> 
 </addon>
 <addon>
 <id>2</id> 

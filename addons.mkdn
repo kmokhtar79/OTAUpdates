@@ -3,7 +3,7 @@
 <addons>
 <addon>
 <id>1</id> 
-<!-- Use integers only, make them unique --> <name>AryaMod_V6.2_Final_ProjectGrace</name> 
+<!-- Use integers only, make them unique --> <name>AryaMod_V6.2_Final_ProjectGrace_rev3</name> 
 <!-- The name, simples --> 
 <description>NoteUX apps for AryaModV6.2</description> 
 <!-- You can use markdown here if you want --> <updated-at>2016-08-08</updated-at> 

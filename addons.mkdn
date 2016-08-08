@@ -13,6 +13,16 @@
 </addon>
 <addon>
 <id>2</id> 
+<!-- Use integers only, make them unique --> <name>AryaMod_Snote_Update_Fix_ActionMemo</name> 
+<!-- The name, simples --> 
+<description>SNote Updat</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-08-09</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>21898167</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2203?region=usa </download-link> 
+</addon> 
+<addon>
+<id>3</id> 
 <!-- Use integers only, make them unique --> <name>xposed-v86.0-sdk23-arm-custom-build-by-wanam-20160709</name> 
 <!-- The name, simples --> 
 <description>Compatible Xposed Framework</description> 

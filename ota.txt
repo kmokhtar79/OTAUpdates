@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <ROM>
    <RomName>AryaMod</RomName>
-  <VersionName>AryaModV_V6.3_S7Edge</VersionName>
-  <VersionNumber type="integer">20160817</VersionNumber>
+  <VersionName>AryaModV_V6.4_S7Edge</VersionName>
+  <VersionNumber type="integer">20160821</VersionNumber>
      <!-- <DirectUrl><![CDATA[XX]]></DirectUrl> -->
      <!-- Use the above format if your URL has special characters in them, like an (&) ampersand -->
      <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
@@ -10,42 +10,21 @@
    <DirectUrl nil="true" />
   <DirectUrl><![CDATA[https://romhut.com/files/2212?region=usa]]></DirectUrl>
    <Android>6.0.1</Android>
-  <CheckMD5>56912684fc0da1895f2941d78a10e59e</CheckMD5>
+  <CheckMD5>638639c7ea076113bedc47d46f79b414</CheckMD5>
   <FileSize type="integer">1769036945</FileSize>
    <Developer>Kamy</Developer>
    <WebsiteURL>http://forum.xda-developers.com/galaxy-note-3/development/rom-aryamod-v1-3-tw-lollipop-5-1-1-t3326976</WebsiteURL>
    <DonateURL nil="true" />
    <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
    <Changelog>
-###v6.3 Changes:
- - LSSKernel Updated to v3.3rc
- - Added Real Pac s LSSKernel Profile
- - Added Kernel Auditor-Mod (built from source)
- - Updated SNote
- - Updated 3Minit Battery Mod
- - Fixed Scroll Capture Producing Faulty Image
- - Low Battery Warning Percentage
- - Critical Battery Warning Percentage
- - Lockscreen Display Timeout
- - Switch Lockscreen Rotation
- - Switch Swipe Screen Text in Lockscreen
- - Switch Connected USB/Charger text in Lockscreen
- - Switch Custom Color/bg for Toggles
- - Restored Toggles Animation on Stock Themes
- - Removed Alpha Channel from Statusbar Icons
- - Brightness Thumb (Handle) Color
- - Brightness Progress bar Color
- - Brightness Checkbox Color
- - Brightness Icon Color
- - Brightness Text Label Color
- - Notification BG Transparency (both round and square)
- - NOTIFICTION SETTINGS and CLEAR text color
- - Added Timestamp Colorizing to Notification Background TEXT
- - Removed Alpha Channel from Statusbar Icons
- - IOS Signal Style: Added Round Corner for Recent Task Windows
- - Removed Statusbar Background Dimming on Power Saving Mod
- - Aroma: Added Smart Manager Note7 (3 choices now)
- - Aroma: Added Note7 Launcher (3 choices now)
+###v6.4 Changes:
+ - LSSKernel Updated to v3.4UX
+ - Removed Real Pac's LSSKernel Profile in order to fix random reboot
+ - Merged fix patches from v6.3: Airplane Mode missing tile, Floating Message 
+ - Settings dashboard Title size
+ - Settings Favorites Title size
+ - Settings edit Favorites Title size
+ - Added Emoji Switcher in Useful apps
  
    </Changelog>
    <AddonCount>5</AddonCount> 

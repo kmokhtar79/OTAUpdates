@@ -13,16 +13,6 @@
 </addon>
 <addon>
 <id>2</id> 
-<!-- Use integers only, make them unique --> <name>AryaMod_V6.3_S7Edge_AirPlaneTile_FloatingMsg_Fix</name> 
-<!-- The name, simples --> 
-<description>a zip patch to fix Airplane Mode missing tile and bring back Flaoting Message</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-08-19</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>74964310</size> 
-<!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2214?region=usa </download-link> 
-</addon>
-<addon>
-<id>3</id> 
 <!-- Use integers only, make them unique --> <name>xposed-v86.0-sdk23-arm-custom-build-by-wanam-20160709</name> 
 <!-- The name, simples --> 
 <description>Compatible Xposed Framework</description> 

@@ -8,7 +8,7 @@
      <!-- Enter <DirectUrl nil="true" /> or <HttpUrl nil="true" /> to indicate you won't be using a type of URL -->
      <!-- Direct Link overrides HTTP link -->
    <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://romhut.com/files/2212?region=usa]]></DirectUrl>
+  <DirectUrl><![CDATA[https://romhut.com/files/2220?region=usa]]></DirectUrl>
    <Android>6.0.1</Android>
   <CheckMD5>638639c7ea076113bedc47d46f79b414</CheckMD5>
   <FileSize type="integer">1769036945</FileSize>

@@ -13,6 +13,16 @@
 </addon>
 <addon>
 <id>2</id> 
+<!-- Use integers only, make them unique --> <name>AryaMod_V6.4_HomeWakeToggle_Fix</name> 
+<!-- The name, simples --> 
+<description>Home Wake Toggle Fix</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-08-26</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>1587521</size> 
+<!-- filesize in bytes --> 
+<download-link> https://romhut.com/files/2223?region=usa </download-link> 
+</addon>
+<addon>
+<id>3</id> 
 <!-- Use integers only, make them unique --> <name>xposed-v86.0-sdk23-arm-custom-build-by-wanam-20160709</name> 
 <!-- The name, simples --> 
 <description>Compatible Xposed Framework</description> 

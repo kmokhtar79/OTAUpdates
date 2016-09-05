@@ -6,7 +6,7 @@
 ## General Changes
   - Android M 6.0.1
   - Based on [B]G935FXXU1APEK[/B] Official Firmware for GALAXY S7 EDGE (SM-G935F)
-  - Included [URL="http://forum.xda-developers.com/galaxy-note-3/development/kernel-lsskernel-note5ports-soon-6-0-1-t3389886"]LssKernel V3.5UX[/URL] for all Supporting Variants thanks @lss1977 for open source kernel :victory:
+  - Included [LssKernel V3.5UX](http://forum.xda-developers.com/galaxy-note-3/development/kernel-lsskernel-note5ports-soon-6-0-1-t3389886) for all Supporting Variants thanks @lss1977 for open source kernel :victory:
   - Added Note 5 features 
   - Rooted with Superuser 2.78 (System Mode)
   - Optimized, Deodexed, De-Knoxed

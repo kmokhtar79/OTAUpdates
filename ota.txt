@@ -17,7 +17,7 @@
    <DonateURL nil="true" />
    <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
    <Changelog>
-###v6.4 Changes:
+###v6.5 Changes:
  - LSSKernel Updated to 3.5UX
  - SuperSu 2.78
  - Fixed NFC

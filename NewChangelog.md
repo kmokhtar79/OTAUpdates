@@ -10,3 +10,4 @@
  - Added Notification Panel Date Gesture: SinglePress opens clock settings and LongPress opens Alarm
  - Added Notification Panel Data Usage Preferences: Visibility, color and more
  - Added Toast Animations UI Framework
+ - Added Note7 Camera in Aroma 

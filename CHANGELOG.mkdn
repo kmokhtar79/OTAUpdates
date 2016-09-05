@@ -54,7 +54,7 @@
   - Updated 3minit battery mod 
   - Full transparency for statusbar bg while power saving mode is activated
   - Removed Alpha Channel from Statusbar Icons
- - Added Notification Panel Date Gesture: SinglePress opens clock settings and LongPress opens Alarm
+  - Added Notification Panel Date Gesture: SinglePress opens clock settings and LongPress opens Alarm
   - Added Multiwindows toggle
   - Added Floating message (settings and toggle)
   - Added Toolbox supporting up to 12 apps

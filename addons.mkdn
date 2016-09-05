@@ -3,33 +3,23 @@
 <addons>
 <addon>
 <id>1</id> 
-<!-- Use integers only, make them unique --> <name>AryaMod_V6.X_ProjectGrace</name> 
+<!-- Use integers only, make them unique --> <name>AryaMod_ProjectGrace</name> 
 <!-- The name, simples --> 
-<description>New NoteUX Repacked for AryaMOD V6.3 and V6.4</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-08-20</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>152421657</size> 
+<description>New NoteUX Repacked for AryaMOD V6.5</description> 
+<!-- You can use markdown here if you want --> <updated-at>2016-09-05</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>145812512</size> 
 <!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2218?region=usa </download-link> 
+<download-link> https://romhut.com/files/2227?region=usa </download-link> 
 </addon>
 <addon>
 <id>2</id> 
-<!-- Use integers only, make them unique --> <name>AryaMod_V6.4_HomeWakeToggle_Fix</name> 
-<!-- The name, simples --> 
-<description>Home Wake Toggle Fix</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-08-26</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>1587521</size> 
-<!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2223?region=usa </download-link> 
-</addon>
-<addon>
-<id>3</id> 
-<!-- Use integers only, make them unique --> <name>xposed-v86.0-sdk23-arm-custom-build-by-wanam-20160709</name> 
+<!-- Use integers only, make them unique --> <name>xposed-v86.1-sdk23-arm-custom-build-by-wanam-20160904</name> 
 <!-- The name, simples --> 
 <description>Compatible Xposed Framework</description> 
-<!-- You can use markdown here if you want --> <updated-at>2016-07-09</updated-at> 
-<!-- Must be in yyyy-mm-dd format --> <size>4876537</size> 
+<!-- You can use markdown here if you want --> <updated-at>2016-09-05</updated-at> 
+<!-- Must be in yyyy-mm-dd format --> <size>4887156</size> 
 <!-- filesize in bytes --> 
-<download-link> https://romhut.com/files/2116 </download-link> 
+<download-link> https://romhut.com/files/2226?region=usa </download-link> 
 </addon> 
 </addons> 
 </hash>
